@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+  font-family: system-ui;
+}
+.hero{
+  background: #232931;
+ background-size: cover;
+ color: #eeeeee;
+ padding-top: 5px;
+ padding-bottom: 5px;
+}
+h1{
+  color: white;
+}
+h2 {
+  color: #393e46;
+
+}
+p{
+  margin: 0px;
+  padding-left: 0px;
+}
+.logotipo-llg{
+  height: 105px;
+  filter: grayscale(100%);
+}
+.logotipo-fam{
+  height: 60px;
+  filter: grayscale(100%);
+}
+.logotipo-royal{
+  height: 85px;
+  filter: grayscale(100%);
+}
+#footer{
+  background-color: black;
+}
+
+
+
+
+
+/*background-size: cover;
+ min-height: 60vh;*/
